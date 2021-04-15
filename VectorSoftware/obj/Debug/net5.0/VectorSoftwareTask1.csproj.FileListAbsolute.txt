@@ -1,0 +1,16 @@
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\bin\Debug\net5.0\VectorSoftwareTask1.exe
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\bin\Debug\net5.0\VectorSoftwareTask1.deps.json
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\bin\Debug\net5.0\VectorSoftwareTask1.runtimeconfig.json
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\bin\Debug\net5.0\VectorSoftwareTask1.runtimeconfig.dev.json
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\bin\Debug\net5.0\VectorSoftwareTask1.dll
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\bin\Debug\net5.0\ref\VectorSoftwareTask1.dll
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\bin\Debug\net5.0\VectorSoftwareTask1.pdb
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.csprojAssemblyReference.cache
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.AssemblyInfoInputs.cache
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.AssemblyInfo.cs
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.csproj.CoreCompileInputs.cache
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.dll
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\ref\VectorSoftwareTask1.dll
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.pdb
+C:\Users\Vovak\source\repos\VectorSoftware\VectorSoftware\obj\Debug\net5.0\VectorSoftwareTask1.genruntimeconfig.cache
